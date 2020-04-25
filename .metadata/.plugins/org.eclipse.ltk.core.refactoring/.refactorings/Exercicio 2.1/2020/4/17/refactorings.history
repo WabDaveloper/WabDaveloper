@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename package &apos;br.com.nickolas.Crianome&apos; to &apos;br.com.usjt.Crianome&apos;&#x0D;&#x0A;- Original project: &apos;Exercicio 2.1&apos;&#x0D;&#x0A;- Original element: &apos;Exercicio 2.1/src/br.com.nickolas.Crianome&apos;&#x0D;&#x0A;- Renamed element: &apos;Exercicio 2.1/src/br.com.usjt.Crianome&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename package &apos;br.com.nickolas.Crianome&apos;" flags="589830" hierarchical="false" id="org.eclipse.jdt.ui.rename.package" input="/src&lt;br.com.nickolas.Crianome" name="br.com.usjt.Crianome" qualified="false" references="true" stamp="1587772135517" textual="false" version="1.0"/>
+</session>

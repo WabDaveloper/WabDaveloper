@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename package &apos;br.com.nickolas.Somador&apos; to &apos;br.com.usjt.Somador&apos;&#x0D;&#x0A;- Original project: &apos;Exercicio 4.2&apos;&#x0D;&#x0A;- Original element: &apos;Exercicio 4.2/src/br.com.nickolas.Somador&apos;&#x0D;&#x0A;- Renamed element: &apos;Exercicio 4.2/src/br.com.usjt.Somador&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename package &apos;br.com.nickolas.Somador&apos;" flags="589830" hierarchical="false" id="org.eclipse.jdt.ui.rename.package" input="/src&lt;br.com.nickolas.Somador" name="br.com.usjt.Somador" qualified="false" references="true" stamp="1587772478584" textual="false" version="1.0"/>
+</session>

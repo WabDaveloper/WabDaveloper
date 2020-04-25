@@ -1,0 +1,12 @@
+INDEX VERSION 1.131+C:\Users\Anderson\Desktop\Exercicios ARQDEV\.metadata\.plugins\org.eclipse.jdt.core
+2779621760.index
+3978211825.index
+1889180921.index
+3973897158.index
+1947721803.index
+2728657244.index
+3918777667.index
+3956634394.index
+1901655758.index
+1931364503.index
+2017595306.index
